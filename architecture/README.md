@@ -1,4 +1,4 @@
-# Web Architecture
+# Web Architecture (1st iteration).
 
 ![Modern web application architecture overview](./images/arch_1.png)
 
