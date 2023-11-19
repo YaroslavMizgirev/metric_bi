@@ -79,14 +79,14 @@ Benefits of Glassfish:
 ## Cloud files storage
 - [x] We will not consider this at the initial stage of the project.
 
-## Queue servers
+## Job Queue
 - [x] We will not consider this at the initial stage of the project.
 
-## Async Application servers for tasks from Queue servers
+## Application servers for Job Queue
 - [x] We will not consider this at the initial stage of the project.
 
 ## Stream processing
 - [x] We will not consider this at the initial stage of the project.
 
-## Big Data Storage
+## Big Data Warehouse
 - [x] We will not consider this at the initial stage of the project.
